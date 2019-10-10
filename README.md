@@ -1,13 +1,9 @@
 # libro-redes
 
-Introducción a Cisco
+## Introducción a Cisco
 
-Cualquier cosa
-
-otro texto
-
-manual de redes
-
-otra cosa mas
-
-algo nuevo
+ - Cualquier cosa
+ - otro texto
+ - manual de redes
+ - otra cosa mas
+ - algo nuevo
